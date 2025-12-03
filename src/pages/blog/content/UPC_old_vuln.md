@@ -1,7 +1,6 @@
 ---
 title: "UPC router"
-date: '2019-10-08 04:23:56 +0300'
-layout: ../../../layouts/BlogPost.astro
+pubdate: '2019-10-08 04:23:56 +0300'
 ---
 
 Recently, I conducted a test on an older UPC router model, the Ubee EVW3226 cable modem, and discovered that it utilizes the outdated WPS security protocol for authentication. Unfortunately, this protocol can be easily bypassed by using tools like Wifite or a simple Android app, which poses a security risk. Furthermore, the router is also susceptible to being denied service attacks through port 80, as revealed by Nmap scans, and may be vulnerable to other attacks like Slowloris or CVE-2007-6750, which require further testing.
