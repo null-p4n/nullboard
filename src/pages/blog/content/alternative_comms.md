@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/Post.astro
+layout: ../../../layouts/BlogPost.astro
 title: "Aplicații de mesagerie alternative la WhatsApp și Telegram"
 date: '2022-03-10 19:13:56 +0300'
 ---
