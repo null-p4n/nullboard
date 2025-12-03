@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/Post.astro
+layout: ../../../layouts/BlogPost.astro
 title: "How I made my own Android TV and why you should buy a Google Chromecast"
 date: '2023-06-24 04:23:56 +0300'
 ---
