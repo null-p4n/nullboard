@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/Post.astro
+layout: ../../../layouts/BlogPost.astro
 title: "Site-ul Consiliului Județean Cluj a fost spart de hackeri"
 date: '2021-05-12 08:25:56 +0300'
 ---
