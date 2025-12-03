@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/Post.astro
+layout: ../../../layouts/BlogPost.astro
 title: "Ce s-a întâmplat de la WannaCry până astăzi și ce am învățat?"
 date: '2021-12-08 07:23:56 +0300'
 ---
