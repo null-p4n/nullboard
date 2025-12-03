@@ -1,7 +1,6 @@
 ---
-layout: ../../../layouts/BlogPost.astro
 title: "OWASP AMASS -- Culegere de informații și date"
-date: '2021-09-18 08:53:56 +0300'
+pubdate: '2021-09-18 08:53:56 +0300'
 ---
 
 OWASP AMASS -- Culegere de informații și date
